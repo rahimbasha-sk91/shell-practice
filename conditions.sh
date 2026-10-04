@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUMBER=$10
+NUMBER=$50
 
 # -gt -> greater than
 # -lt -> less than
